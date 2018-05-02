@@ -1,0 +1,10 @@
+C:\Users\josei\source\repos\NetCore\GlobalFilters\bin\Debug\netcoreapp2.0\GlobalFilters.deps.json
+C:\Users\josei\source\repos\NetCore\GlobalFilters\bin\Debug\netcoreapp2.0\GlobalFilters.runtimeconfig.json
+C:\Users\josei\source\repos\NetCore\GlobalFilters\bin\Debug\netcoreapp2.0\GlobalFilters.runtimeconfig.dev.json
+C:\Users\josei\source\repos\NetCore\GlobalFilters\bin\Debug\netcoreapp2.0\GlobalFilters.dll
+C:\Users\josei\source\repos\NetCore\GlobalFilters\bin\Debug\netcoreapp2.0\GlobalFilters.pdb
+C:\Users\josei\source\repos\NetCore\GlobalFilters\obj\Debug\netcoreapp2.0\GlobalFilters.csproj.CoreCompileInputs.cache
+C:\Users\josei\source\repos\NetCore\GlobalFilters\obj\Debug\netcoreapp2.0\GlobalFilters.AssemblyInfoInputs.cache
+C:\Users\josei\source\repos\NetCore\GlobalFilters\obj\Debug\netcoreapp2.0\GlobalFilters.AssemblyInfo.cs
+C:\Users\josei\source\repos\NetCore\GlobalFilters\obj\Debug\netcoreapp2.0\GlobalFilters.dll
+C:\Users\josei\source\repos\NetCore\GlobalFilters\obj\Debug\netcoreapp2.0\GlobalFilters.pdb

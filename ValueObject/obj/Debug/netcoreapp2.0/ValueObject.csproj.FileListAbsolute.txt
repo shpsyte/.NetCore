@@ -1,0 +1,10 @@
+C:\Users\josei\source\repos\NetCore\ValueObject\bin\Debug\netcoreapp2.0\ValueObject.deps.json
+C:\Users\josei\source\repos\NetCore\ValueObject\bin\Debug\netcoreapp2.0\ValueObject.runtimeconfig.json
+C:\Users\josei\source\repos\NetCore\ValueObject\bin\Debug\netcoreapp2.0\ValueObject.runtimeconfig.dev.json
+C:\Users\josei\source\repos\NetCore\ValueObject\bin\Debug\netcoreapp2.0\ValueObject.dll
+C:\Users\josei\source\repos\NetCore\ValueObject\bin\Debug\netcoreapp2.0\ValueObject.pdb
+C:\Users\josei\source\repos\NetCore\ValueObject\obj\Debug\netcoreapp2.0\ValueObject.csproj.CoreCompileInputs.cache
+C:\Users\josei\source\repos\NetCore\ValueObject\obj\Debug\netcoreapp2.0\ValueObject.AssemblyInfoInputs.cache
+C:\Users\josei\source\repos\NetCore\ValueObject\obj\Debug\netcoreapp2.0\ValueObject.AssemblyInfo.cs
+C:\Users\josei\source\repos\NetCore\ValueObject\obj\Debug\netcoreapp2.0\ValueObject.dll
+C:\Users\josei\source\repos\NetCore\ValueObject\obj\Debug\netcoreapp2.0\ValueObject.pdb
