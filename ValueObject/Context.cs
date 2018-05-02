@@ -12,6 +12,7 @@ namespace ValueObject
 
 
 
+
             modelBuilder.Entity<Customer>().OwnsOne(p => p.Name)
                .Property(p => p.FirstName).HasColumnName("FirstName");
 
